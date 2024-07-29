@@ -19,3 +19,17 @@ Back to the two gymnastics teams, the Dolphins and the Koalas! There is a new gy
 - **TEST DATA 2:** Dolphins scored 85, 54, and 41. Koalas scored 23, 34, and 27.
 
 **This challenge include if/else statements and functions topic in javascript**
+
+## CHALLENGE 2
+
+## This challenge involves coditional (ternary) operator and function topics
+
+Steven wants you to improve his tip calculator, using the same rules as before — tip 15% of the bill if the bill value is between 50 and 300, and if the value is different, the tip is 20%.
+
+**Your tasks:**
+
+- Write a function _calcTip_ that takes any bill value as an input and returns the corresponding tip, calculated based on the rules above (you can check out the code from the first tip calculator challenge if you need to). Use the function type you like the most. Test the function using a bill value of 100.
+- And now let's use arrays! So, create an array called _bills_ containing the test data below
+- Create an array called _tips_ containing the tip value for each bill, calculated from the function you created before.
+- Create an array _totals_ containing the total values, so the _bill + tip_.
+  **TEST DATA:** 125, 555, and 44.
